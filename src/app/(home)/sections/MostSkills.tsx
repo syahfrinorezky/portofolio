@@ -1,4 +1,4 @@
-import { skillsList } from "@/app/lib/constants";
+import { skillsList } from "@/app/lib/data";
 
 export default function MostSkills() {
   return (

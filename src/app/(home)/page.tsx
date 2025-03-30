@@ -5,7 +5,7 @@ import Link from "next/link";
 import Image from "next/image";
 import Loading from "./loading";
 import { MostSkills } from "./sections";
-import { Profile } from "../lib/constants";
+import { Profile } from "../lib/data";
 import { TypeAnimation } from "react-type-animation";
 import { HiArrowDownTray } from "react-icons/hi2";
 
